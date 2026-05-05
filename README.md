@@ -103,11 +103,11 @@ flutter run
 ```
 ## 🎯 Future Improvements
 
-Add Firebase Authentication
-Add password reset functionality
-Improve animations and transitions
-Add biometric login (fingerprint / face ID)
-Connect to real backend API
+- Add Firebase Authentication
+- Add password reset functionality
+- Improve animations and transitions
+- Add biometric login (fingerprint / face ID)
+- Connect to real backend API
 
 ---
 ## 👨‍💻 Author
