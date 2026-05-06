@@ -90,7 +90,7 @@ lib/
 Clone the repository:
 
 ```bash
-git clone https://github.com/umar763465/flutter-fitness-login-app.git
+git clone https://github.com/umarjawad123/flutter-fitness-login-app.git
 
 Navigate to project folder:
 cd flutter-fitness-login-app
